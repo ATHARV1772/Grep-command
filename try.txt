@@ -1,0 +1,7 @@
+My name is Atharv
+I am Atharv from COEP
+Electronics & Telecommunication Enginnering studentatharv
+Atharv is a Final Year student
+This is DSA project
+grep is a linux command 
+Linux suppotrs GREP 
